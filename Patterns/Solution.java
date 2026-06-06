@@ -6,6 +6,7 @@ class Solution {
         pattern3(4);
         pattern4(5);
         pattern5(5);
+        pattern6(5);
     }
 
     public static void pattern1(int n) {
@@ -49,6 +50,14 @@ class Solution {
         for(int i=1; i<=n; i++){
             for(int j=n; j>=i; j--){
                 System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+    public static void pattern6(int n) {
+        for(int i=n; i>=1; i--) {
+            for(int j=1; j<=i; j++){
+                System.out.print(j+" ");
             }
             System.out.println();
         }
