@@ -8,14 +8,11 @@ Documenting my daily Data Structures & Algorithms practice.
 
 ## 📂 Topics Covered
 - Patterns
-- 
-- 
-- 
-- 
+
 
 ## 📊 Progress
 | Day | Topic | Problems Solved |
 |-----|-------|----------------|
-| Day 1 | | |
+| Day 1 | Patterns | 5 |
 
 > "Consistency beats perfection every time!"
