@@ -7,8 +7,9 @@ Documenting my daily Data Structures & Algorithms practice.
 - 🎯 Goal: Solve consistently every day
 
 ## 📂 Topics Covered
-- Patterns
-
+- ✅ Patterns
+- ✅ Basic Maths
+- Recursion (upcoming)
 
 ## 📊 Progress
 | Day | Topic | Problems Solved |
@@ -16,5 +17,6 @@ Documenting my daily Data Structures & Algorithms practice.
 | Day 1 | Patterns | 6 |
 | Day 2 | Patterns | 9 |
 | Day 3 | Patterns | 7 |
+| Day 4 | Basic Maths | 7 |
 
 > "Consistency beats perfection every time!"
