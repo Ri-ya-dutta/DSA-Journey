@@ -19,4 +19,5 @@ Documenting my daily Data Structures & Algorithms practice.
 | Day 3 | Patterns | 7 |
 | Day 4 | Basic Maths | 7 |
 | Day 5 | Basic Recursion | 2 |
+| Day 6 | Basic Recursion | 1 |
 > "Consistency beats perfection every time!"

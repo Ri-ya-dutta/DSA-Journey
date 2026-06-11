@@ -1,5 +1,5 @@
 package Know_Basic_Math;
-import java.math.*;
+//import java.math.*;
 // It can also be called as HCF = Highest common factor
 // GCD = Greatest Common Divisors
 public class Gcd {
