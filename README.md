@@ -9,7 +9,8 @@ Documenting my daily Data Structures & Algorithms practice.
 ## 📂 Topics Covered
 - ✅ Patterns
 - ✅ Basic Maths
-- Recursion (upcoming)
+- ✅ Basic Recursion (Basics)
+- Basic Hashing (upcoming)
 
 ## 📊 Progress
 | Day | Topic | Problems Solved |
@@ -21,4 +22,6 @@ Documenting my daily Data Structures & Algorithms practice.
 | Day 5 | Basic Recursion | 2 |
 | Day 6 | Basic Recursion | 1 |
 | Day 7 | Basic Recursion | 3 |
+| Weekend 1 | Revision + Basic Hashing Intro | - |
+
 > "Consistency beats perfection every time!"
